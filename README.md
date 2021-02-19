@@ -33,7 +33,7 @@ About me:
 
 🤝Also find and connect with me here:
 
-<a href="https://www.linkedin.com/in/clever-tedeku-84505a127/" target="_blank"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/clever-tedeku-84505a127/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a>
  <a href="https://codepen.io/cleverttech"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/codepen.png"> Codepen </a>
  <a href="https://www.instagram.com/clever_ttech/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/instagram.svg"> Instagram</a>
  <a href="https://twitter.com/TedekuClever"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/twitter.svg"> Twitter </a>
