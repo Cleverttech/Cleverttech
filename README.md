@@ -39,8 +39,7 @@ About me:
  <a href="https://twitter.com/TedekuClever"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/twitter.svg"> Twitter </a>
 
  <hr> 
-Acknowledgement to:
-Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anura Hazra</a>
+
 
 
 
@@ -48,3 +47,6 @@ Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-r
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleverttech&hide=prs&show_icons=true&theme=dracula)](https://github.com/Cleverttech/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverttech&layout=compact&theme=dracula)](https://github.com/Cleverttech/github-readme-stats)
 
+ <hr> 
+Acknowledgement to:
+Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
