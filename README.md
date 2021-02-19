@@ -9,7 +9,7 @@ Full Stack JavaScript Developer</p>
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
  If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of whta my coding path looks like:
-[Portfolio here](http://cleverttech.com) with links to real projects with my previous employer.
+<a href="http://cleverttech.com">Portfolio here</a> with links to real projects with my previous employer.
  
 About me: 
  
