@@ -30,11 +30,11 @@ About me:
 📩Send me an Email on: <a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
 
 🤝🏽Find me on social media:
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/clever-tedeku-84505a127/" title="LinkedIn Profile"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a></code> 
-  <code><a href="https://codepen.io/cleverttech" title="Codepen Profile"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/codepen.png"> Codepen </a></code>
-  <code><a href="https://www.instagram.com/clever_ttech/" title="Instagram Page"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/instagram.svg"> Instagram</a></code>
-</h5>
+
+<a href="https://www.linkedin.com/in/clever-tedeku-84505a127/" title="LinkedIn Profile"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a>
+ <a href="https://codepen.io/cleverttech" title="Codepen Profile"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/codepen.png"> Codepen </a>
+ <a href="https://www.instagram.com/clever_ttech/" title="Instagram Page"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/instagram.svg"> Instagram</a>
+
 
  
 
