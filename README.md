@@ -24,7 +24,10 @@ About me:
  <hr>
 ⚡ Fun facts: I love listening to 🎵 classical music writing code and Jhene Aiko while relaxing.
  <hr>
- 
+ Goals:<br>
+ ‣ Join a Start-Up , intermediate or high tech family with an intermediate plus qualification in order to contribute more while still learning from the propective company.<br>
+ ‣ Quest to learn more.
+ <hr>
  For more Enquiries: <br>
 📩Send me an Email on:<a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
 
@@ -38,6 +41,8 @@ About me:
  <hr> 
 Acknowledgement to:
 Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anura Hazra</a>
+
+
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleverttech&hide=prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
