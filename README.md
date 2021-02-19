@@ -1,5 +1,5 @@
                                   Hi there 👋🏽
-                       [![Header](https://github.com/Cleverttech//Cleverttech/blob/main/readme-banner.png "Header")](http://cleverttech.com/)
+                       [![Header](https://github.com/Cleverttech/Cleverttech/readme-banner.png "Header")](http://cleverttech.com/)
 
 
 
