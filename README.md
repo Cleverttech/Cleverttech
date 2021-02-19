@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Transitioning into a fully fetched Full Stack JavaScript Developer</p>
+Transitioning into a full-fledged Full-Stack JavaScript Developer</p>
 
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
@@ -14,7 +14,7 @@ Transitioning into a fully fetched Full Stack JavaScript Developer</p>
  <hr> 
  
 About me:
-📍 I'm currently located in Hennef, Germany.
+📍 curent location : Hennef, Germany.
  
 🎓 I’m currently :
 ‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp whihc will end by the month of May.
@@ -30,7 +30,7 @@ About me:
 📩Send me an Email on: clevertedeku@gmail.com
 
 social media
-
+ 
 
 
 
