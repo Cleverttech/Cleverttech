@@ -6,7 +6,9 @@
 
 
   Welcome to my Github !
- If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity.
+ If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. All the best in your quest 😊
+ 
+ 
 🎓 I’m currently solidifying my roots in JavaSCript Full stack development by partaking in an Intensive MERN Stack course with Ironhack coding Bootcamp💻.
 
 ⚡ Fun fact:I love listening to 🎵classical music writing code and Jhene Aiko while relaxing.
