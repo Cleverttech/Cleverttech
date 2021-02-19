@@ -18,7 +18,7 @@ About me:
  
 🎓 I’m currently : <br>
 ‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp whihc will end by the month of May.<br>
-‣  delving into DevOp tools like Docker.<br>
+‣  delving deeper into DevOp tools like Docker.<br>
 ‣ javaScript Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
  <hr>
@@ -37,7 +37,8 @@ About me:
 
 
  
-
+Acknowledgement to:
+Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anura Hazra</a>
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleverttech&hide=prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
