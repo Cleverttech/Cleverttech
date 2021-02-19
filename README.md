@@ -5,10 +5,10 @@
 [![Header](https://github.com/Cleverttech//Cleverttech/blob/main/readme-banner.png "Header")](http://cleverttech.com/)
 
 
-  Welcome to my Github !
+  Welcome to my Github 😊!
   
  If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of whta my coding path looks like:
- All the best in your quest 😊! and do check out my portfolio at (http://cleverttech.com) with real projects with my previous Employer.
+[Portfolio here](http://cleverttech.com) with links to real projects with my previous employer.
  
 About me: 
  
