@@ -1,9 +1,9 @@
                                   Hi there 👋🏽
-                       [![Header](https://github.com/Cleverttech/Cleverttech/readme-banner.png "Header")](http://cleverttech.com/)
 
 
 
 
+  <img>[![Header](https://github.com/Cleverttech/Cleverttech/Cleverttech-logo(white-bg).png "Header")](http://cleverttech.com)</img>
 
   Welcome to my Github 😊!
   
