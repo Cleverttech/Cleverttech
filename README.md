@@ -3,8 +3,7 @@
 
 
 
-[![Header](https://github.com/Cleverttech/Cleverttech/readme-logo.png "Header")(http://cleverttech.com)
-(https://raw.githubusercontent.com/Cleverttech/Cleverttech/main/readme-logo.png)
+[![Header](https://github.com/Cleverttech/Cleverttech/readme-logo.png "Header")](http://cleverttech.com)(https://raw.githubusercontent.com/Cleverttech/Cleverttech/main/readme-logo.png)
 
   Welcome to my Github 😊!
   
