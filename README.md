@@ -14,7 +14,7 @@ Transitioning into a full-fledged Full-Stack JavaScript Developer</p>
  <hr> 
  
 About me:
-📍 curent location : Hennef, Germany.
+📍 current location : Hennef, Germany.
  
 🎓 I’m currently :
 ‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp whihc will end by the month of May.
