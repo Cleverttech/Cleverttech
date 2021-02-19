@@ -8,9 +8,9 @@ Full Stack JavaScript Developer</p>
 
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
- If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of whta my coding path looks like:
-<a href="http://cleverttech.com">Portfolio here</a> with links to real projects with my previous employer.
- 
+ If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of what my coding path looks like:
+<a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer.
+ <hr> 
 About me: 
  
 🎓 I’m currently solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp💻.
