@@ -44,8 +44,8 @@ About me:
 
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleverttech&hide=prs&show_icons=true&theme=dracula)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverttech&layout=compact&theme=dracula)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleverttech&hide=prs&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverttech&layout=compact&theme=dracula)
 
  <hr> 
 Acknowledgement to:
