@@ -1,6 +1,6 @@
                                   Hi there 👋
 
-<a href="http://cleverttech.com"><img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" width="500" height="350"/></a>
+            <a href="http://cleverttech.com"><img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" alt="CLeverttech-Logo" width="300" height="200"/></a>
 
 
 
