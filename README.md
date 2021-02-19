@@ -7,12 +7,14 @@
 
   Welcome to my Github !
   
- If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. All the best in your quest 😊!
+ If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of whta my coding path looks like:
+ All the best in your quest 😊! and do check out my portfolio at (http://cleverttech.com) with real projects with my previous Employer.
  
+About me: 
  
-🎓 I’m currently solidifying my roots in JavaSCript Full stack development by partaking in an Intensive MERN Stack course with Ironhack coding Bootcamp💻.
+🎓 I’m currently solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp💻.
 
-⚡ Fun fact:I love listening to 🎵classical music writing code and Jhene Aiko while relaxing.
+⚡ Fun facts: I love listening to 🎵classical music writing code and Jhene Aiko while relaxing.
 
 📩Send me an Email on: clevertedeku@gmail.com
 
