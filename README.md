@@ -35,7 +35,7 @@ About me:
  <a href="https://www.instagram.com/clever_ttech/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/instagram.svg"> Instagram</a>
  <a href="https://twitter.com/TedekuClever"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/twitter.svg"> Twitter </a>
 
- 
+ <hr> 
 Acknowledgement to:
 Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anura Hazra</a>
 
