@@ -22,7 +22,7 @@ About me:
 ‣ javaScript Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
  <hr>
-⚡ Fun facts: I love listening to 🎵 classical music writing code and Jhene Aiko while relaxing.
+⚡ Fun facts: I love listening to 🎵 classical music while writing code and Jhene Aiko while relaxing.
  <hr>
  Goals:<br>
  ‣ Join a Start-Up , intermediate or high tech family with an intermediate plus qualification in order to contribute more while still learning from the propective company.<br>
