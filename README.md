@@ -27,6 +27,7 @@ About me:
 ⚡ Fun facts: I love listening to 🎵 classical music writing code and Jhene Aiko while relaxing.
  <hr>
  
+ For more Enquiries: <br>
 📩Send me an Email on: <a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
 
 🤝Also find and connect with me here:
