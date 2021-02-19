@@ -10,8 +10,10 @@ Transitioning into a full-fledged Full-Stack JavaScript Developer</p>
  <hr> 
  If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of what my coding path looks like:
 <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer.
- <hr> 
-About me:
+ <hr>
+ 
+About me: 
+
 📍 current location : Hennef, Germany.
  
 🎓 I’m currently : <br>
@@ -22,9 +24,12 @@ About me:
  <hr>
 ⚡ Fun facts: I love listening to 🎵 classical music writing code and Jhene Aiko while relaxing.
  <hr>
+ 
  For more Enquiries: <br>
-📩Send me an Email on:<br> <a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
+📩Send me an Email on:<a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
+
 🤝Also find and connect with me here:
+
 <a href="https://www.linkedin.com/in/clever-tedeku-84505a127/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a>
  <a href="https://codepen.io/cleverttech"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/codepen.png"> Codepen </a>
  <a href="https://www.instagram.com/clever_ttech/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/instagram.svg"> Instagram</a>
