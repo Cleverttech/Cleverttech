@@ -8,7 +8,7 @@ Transitioning into a full-fledged Full-Stack JavaScript Developer</p>
 
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
- If you are here, you are probably considering me for a Developer role or just casually browsing through. Let me take you through a glimpse of what my coding path looks like:
+ If you are here, you are probably considering me for a Developer role or just casually browsing through. Let me take you through a Glimpse of what my coding path looks like:
 <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer plus other projects.
  <hr>
  
@@ -19,7 +19,7 @@ About me:
 🎓 I’m currently : <br>
 ‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp with due graduation by end month of May/2021.<br>
 ‣  delving deeper into DevOp tools like Docker.<br>
-‣ javaScript Data Structures and Algorithm.<br>
+‣ Problem solving with optimized Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
  <hr>
 ⚡ Fun facts: I love listening to 🎵 classical music while writing code and Jhene Aiko while relaxing.
