@@ -1,5 +1,5 @@
                                   Hi there 👋
- [![](<img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" width="500" height="200">)]
+ [![](<img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" width="500" height="200"> http://cleverttech.com)]
 
 
 
