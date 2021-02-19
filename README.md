@@ -29,7 +29,7 @@ About me:
  ‣ Quest to learn more.
  <hr>
  For more Enquiries: <br>
-📩Send me an Email on:<a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
+📩Send me an Email on: <a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
 
 🤝Also find and connect with me here:
 
