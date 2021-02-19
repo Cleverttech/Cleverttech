@@ -29,7 +29,13 @@ About me:
  
 📩Send me an Email on: clevertedeku@gmail.com
 
-social media
+🤝🏽Find me on social media:
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/clever-tedeku-84505a127/" title="LinkedIn Profile"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/images/linkedin.svg"> LinkedIn </a></code> 
+  <code><a href="https://codepen.io/cleverttech" title="Codepen Profile"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/images/codepen.png"> Codepen </a></code>
+  <code><a href="https://www.instagram.com/clever_ttech/" title="Instagram Page"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/images/instagram.svg"> freeCodeCamp</a></code>
+</h5>
+
  
 
 
