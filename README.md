@@ -5,10 +5,9 @@
 
 <p align="center">
 Full Stack JavaScript Developer</p>
- <br>
-  
-  Welcome to my Github 😊!
-  
+
+ <p align="center"> Welcome to my Github 😊!</p>
+ <hr> 
  If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of whta my coding path looks like:
 [Portfolio here](http://cleverttech.com) with links to real projects with my previous employer.
  
@@ -16,7 +15,7 @@ About me:
  
 🎓 I’m currently solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp💻.
 
-⚡ Fun facts: I love listening to 🎵classical music writing code and Jhene Aiko while relaxing.
+⚡ Fun facts: I love listening to 🎵 classical music writing code and Jhene Aiko while relaxing.
 
 📩Send me an Email on: clevertedeku@gmail.com
 
