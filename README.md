@@ -1,9 +1,12 @@
                                   Hi there 👋
 
-   <a href="http://cleverttech.com"><img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" alt="CLeverttech-Logo" width="300" height="200"/></a>
+  <p align="center"> <a href="http://cleverttech.com"><img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" alt="CLeverttech-Logo" margin="auto 0px" width="300" height="200"/></a>
+</p>
 
-
-
+<p align="center">
+Full Stack JavaScript Developer</p>
+ <br>
+  
   Welcome to my Github 😊!
   
  If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of whta my coding path looks like:
