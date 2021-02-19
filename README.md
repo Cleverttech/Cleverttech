@@ -8,7 +8,7 @@ Transitioning into a full-fledged Full-Stack JavaScript Developer</p>
 
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
- If you are here, you are probably considering me for a Dev role or just casually browsing through out of curiosity. Let me take you through a glimpse of what my coding path looks like:
+ If you are here, you are probably considering me for a Developer role or just casually browsing through. Let me take you through a glimpse of what my coding path looks like:
 <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer.
  <hr>
  
@@ -17,7 +17,7 @@ About me:
 📍 current location : Hennef, Germany.
  
 🎓 I’m currently : <br>
-‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp whihc will end by the month of May.<br>
+‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp with due graduation by end month of May/2021.<br>
 ‣  delving deeper into DevOp tools like Docker.<br>
 ‣ javaScript Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
@@ -34,7 +34,6 @@ About me:
  <a href="https://codepen.io/cleverttech"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/codepen.png"> Codepen </a>
  <a href="https://www.instagram.com/clever_ttech/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/instagram.svg"> Instagram</a>
  <a href="https://twitter.com/TedekuClever"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/twitter.svg"> Twitter </a>
-
 
  
 Acknowledgement to:
