@@ -1,5 +1,5 @@
                                   Hi there 👋
-                                  [![Header](https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png?raw=true)](http://cleverttech.com)🏽
+ [![Header](https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png?raw=true)](http://cleverttech.com)🏽
 
 
 
