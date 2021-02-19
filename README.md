@@ -3,7 +3,7 @@
 
 
 
-  <img>[![Header](https://github.com/Cleverttech/Cleverttech/Cleverttech-logo(white-bg).png "Header")](http://cleverttech.com)</img>
+[![Header](https://github.com/Cleverttech/Cleverttech/readme-logo.png "Header")(http://cleverttech.com)
 
   Welcome to my Github 😊!
   
