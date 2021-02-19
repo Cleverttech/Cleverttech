@@ -1,7 +1,7 @@
                                  ### Hi there 👋🏽
 
 
-[![Header](https://github.com/cleverttech.github.io/Cleverttech/<OWNER>/<OWNER>/readme_header.png "Header")](http://cleverttech.com/)
+[![Header](https://raw.githubusercontent.com/Cleverttech/<OWNER>/<OWNER>/readme_header.png "Header")](http://cleverttech.com/)
 Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
