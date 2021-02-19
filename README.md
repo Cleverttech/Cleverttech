@@ -9,7 +9,7 @@ Transitioning into a full-fledged Full-Stack JavaScript Developer</p>
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
  If you are here, you are probably considering me for a Developer role or just casually browsing through. Let me take you through a glimpse of what my coding path looks like:
-<a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer.
+<a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer plus other projects.
  <hr>
  
 About me: 
