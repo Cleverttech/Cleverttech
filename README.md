@@ -1,4 +1,4 @@
-                                  Hi there 👋
+                  Hi there 👋
 
   <p align="center"> <a href="http://cleverttech.com"><img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" alt="CLeverttech-Logo" margin="auto 0px" width="300" height="200"/></a>
 </p>
