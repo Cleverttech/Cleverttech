@@ -25,7 +25,7 @@ About me:
 ⚡ Fun facts: I love listening to 🎵 classical music while writing code and Jhene Aiko while relaxing.
  <hr>
  Goals:<br>
- ‣ Join a Start-Up , intermediate or high tech family with an intermediate plus qualification in order to contribute more while still learning from the propective company.<br>
+ ‣ Join a Start-Up , intermediate or huge organisation with an intermediate plus qualification in order to contribute more while still learning from the propective company.<br>
  ‣ Quest to learn more.
  <hr>
  For more Enquiries: <br>
@@ -48,5 +48,5 @@ About me:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverttech&layout=compact&theme=dracula)
 
  <hr> 
-Acknowledgement to:
+Acknowledgement:
 Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
