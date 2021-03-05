@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Transitioning into a full-fledged Full-Stack JavaScript Developer</p>
+Transitioning into a full-fledged full-stack JavaScript Developer</p>
 
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
