@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Transitioning into a full-fledged full-stack JavaScript Developer</p>
+Transitioning into a full-fledged full-stack JavaScript Developer  </p> 
 
  <p align="center"> Welcome to my Github 😊!</p>
  <hr> 
@@ -12,23 +12,30 @@ Transitioning into a full-fledged full-stack JavaScript Developer</p>
 <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer plus other projects.
  <hr>
  
-About me: 
+  About me: 
 
-📍 current location : Hennef, Germany.
+📍 current location : Hennef, Germany . 
  
-🎓 I’m currently : <br>
+🎓 I’m currently : 
+
 ‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp with due graduation by end month of May/2021.<br>
 ‣  delving deeper into DevOp tools like Docker.<br>
 ‣ Problem solving with optimized Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
  <hr>
-⚡ Fun facts: I love listening to 🎵 classical music while writing code and Jhene Aiko while relaxing.
+
+⚡ Fun facts: 
+
+I love listening to 🎵 classical music while writing code and Jhene Aiko while relaxing.
  <hr>
- Goals:<br>
+
+ Goals:
+
  ‣ Join a Start-Up , intermediate or huge organisation with an intermediate plus qualification in order to contribute more while still learning from the propective company.<br>
  ‣ Quest to learn more.
  <hr>
- For more Enquiries: <br>
+ For more Enquiries: 
+
 📩Send me an Email on: <a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
 
 🤝Also find and connect with me here:
