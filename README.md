@@ -18,7 +18,7 @@ Transitioning into a full-fledged full-stack JavaScript Developer  </p>
  
 🎓 I’m currently : 
 
-‣  💻solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp with due graduation by end month of May/2021.<br>
+‣   📝solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp with due graduation by end month of May/2021.<br>
 ‣  delving deeper into DevOp tools like Docker.<br>
 ‣ Problem solving with optimized Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
@@ -29,7 +29,7 @@ Transitioning into a full-fledged full-stack JavaScript Developer  </p>
 I love listening to 🎵 classical music while writing code and Jhene Aiko while relaxing.
  <hr>
 
- Goals:
+ 📚 Goals:
 
  ‣ Join a Start-Up , intermediate or huge organisation with an intermediate plus qualification in order to contribute more while still learning from the propective company.<br>
  ‣ Quest to learn more.
