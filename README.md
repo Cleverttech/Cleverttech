@@ -67,7 +67,7 @@ I love listening to 🎵 classical music while writing code and Jhene Aiko while
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverttech&layout=compact&theme=dracula)
 <hr> 
 
-###### Acknowledgement:
+###### Acknowledgements:
 
  ‣ Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
 
