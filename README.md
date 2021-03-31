@@ -14,6 +14,8 @@ Transitioning into a full-fledged full-stack JavaScript Developer  </p>
  ###### About me: 
 
 📍 current location : Hennef, Germany . 
+
+ <hr> 
  
 ###### 🎓 I’m currently : 
 
@@ -56,10 +58,7 @@ I love listening to 🎵 classical music while writing code and Jhene Aiko while
 
 <a href="https://www.linkedin.com/in/clever-tedeku-84505a127/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a>
  <a href="https://codepen.io/cleverttech"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/codepen.png"> Codepen </a>
- <a href="https://www.instagram.com/clever_ttech/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/instagram.svg"> Instagram</a>
- <a href="https://twitter.com/TedekuClever"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/twitter.svg"> Twitter </a>
 
- <hr> 
 
 
 
