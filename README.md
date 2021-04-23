@@ -57,6 +57,9 @@ I love listening to 🎵 classical music while writing code and Jhene Aiko while
 ###### 🤝Also find and connect with me here:
 
 <a href="https://www.linkedin.com/in/clever-tedeku-84505a127/"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/linkedin.svg"> LinkedIn </a>
+
+<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="clever-tedeku-84505a127" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/clever-tedeku-84505a127?trk=profile-badge">Clever Tedeku</a></div>
+              
  <a href="https://codepen.io/cleverttech"><img width="22" src="https://github.com/Cleverttech/Cleverttech/blob/main/codepen.png"> Codepen </a>
 
 
