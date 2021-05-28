@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Transitioning into a full-fledged full-stack JavaScript Developer  </p> 
+fullstack / frontend JavaScript Developer  </p> 
 
  <p align="center"> My name is Clever Tedeku <br><br>Welcome to my Github 😊!</p>
  <hr> 
