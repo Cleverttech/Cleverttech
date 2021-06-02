@@ -20,7 +20,7 @@ fullstack / frontend JavaScript Developer  </p>
  
 ###### 🎓 I’m currently : 
 
-‣   📝solidifying my roots in JavaScript Full stack development by partaking in an intensive MERN stack program with Ironhack coding Bootcamp with due graduation by end month of May/2021.<br>
+‣   📝a fullstack javascript developer looking for a job opportunity to join an amazing Tech team either as a frontend or fullstack developer<br>
 ‣  delving deeper into DevOp tools like Docker.<br>
 ‣ Problem solving with optimized Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
