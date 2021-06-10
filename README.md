@@ -29,9 +29,11 @@ fullstack / frontend JavaScript Developer  </p>
 ###### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![ES6](https://img.shields.io/badge/-ES6-orange?style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
+![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=mongo)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -73,4 +75,3 @@ I love listening to 🎵 classical music while writing code and Jhene Aiko while
  ‣ Dynamic Github-readme-stats ‣ <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
 
  ‣ Organisational-Inspiration ‣ <a href="https://github.com/Silinde87">Pau Rodriguez</a>
-
