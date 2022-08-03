@@ -20,7 +20,7 @@ fullstack / frontend JavaScript Developer  </p>
  
 ###### 🎓 I’m currently : 
 
-‣   📝a fullstack javascript developer looking for a job / opportunity to join an amazing Tech team either as a frontend or fullstack developer<br>
+‣   📝working as a software developer at a Software Company.<br>
 ‣  delving deeper into DevOp tools like Docker.<br>
 ‣ Problem solving with optimized Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
