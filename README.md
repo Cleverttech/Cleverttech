@@ -6,7 +6,7 @@
 <p align="center">
 Software / frontend Developer  </p> 
 
- <p align="center"> My name is Clever Tedeku <br><br>Welcome to my Github 😊!</p>
+ <p align="center"> My name is Clever D. Derenbach <br><br>Welcome to my Github 😊!</p>
  <hr> 
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
  Let me take you through a Glimpse of what my coding path looks like: Find my <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer plus other projects.
