@@ -1,6 +1,6 @@
                Hi there 👋
 
-  <p align="center"> <a href="http://cleverttech.com"><img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" alt="CLeverttech-Logo" margin="auto 0px" width="110" height="83"/></a>
+  <p align="center"> <a href="[http://cleverttech.com](https://my-portfolio-cleverttech.vercel.app/)"><img src="https://github.com/Cleverttech/Cleverttech/blob/main/readme-logo.png" alt="CLeverttech-Logo" margin="auto 0px" width="110" height="83"/></a>
 </p>
 
 <p align="center">
