@@ -8,9 +8,14 @@ Software / frontend Developer  </p>
 
  <p align="center"> My name is Clever D. Derenbach <br><br>Welcome to my Github 😊!</p>
  <hr> 
- If you are here, you are probably considering me for a Developer role or just casually browsing through. 
- Let me take you through a Glimpse of what my coding path looks like: Find my <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer plus other projects.
- My 3 main Project repositories are :
+Oh, hey there! 👋 So, you’re either scouting for your next star Developer (spoiler alert: it’s me 💁‍♀️) or just casually snooping around. Either way, welcome to my little corner of tech magic!
+   <br> 
+Let me give you a sneak peek into my coding glow-up from 4 years ago. Spoiler: it’s been a wild ride full of commits, caffeine, and the occasional bug-induced meltdown.
+   <br> 
+✨ Ready to be impressed? Check out my <a href="http://cleverttech.com">Portfolio here</a>.
+💻 And because I know you’re curious, here are my Top 3 Project Repositories:
+
+Stay tuned. The best is yet to come. 😉
     <br> 
   <a href="http://cleverttech.com">Dragon slay game</a>
   <br>
