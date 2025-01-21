@@ -10,6 +10,10 @@ Software / frontend Developer  </p>
  <hr> 
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
  Let me take you through a Glimpse of what my coding path looks like: Find my <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer plus other projects.
+ My 3 main Project repositories are :
+  <a href="http://cleverttech.com">Dragon slay game</a>
+  <a href="http://cleverttech.com">Moving company app</a>
+  <a href="http://cleverttech.com">Topoli Arts App</a>
  <hr>
  
  ###### About me: 
