@@ -8,7 +8,7 @@ Software / frontend Developer  </p>
 
  <p align="center"> My name is Clever D. Derenbach <br><br>Welcome to my Github 😊!</p>
  <hr> 
-Oh, hey there! 👋 So, you’re either scouting for your next star Developer (spoiler alert: it’s me 💁‍♀️) or just casually snooping around. Either way, welcome to my little corner of tech magic!
+Oh, hey there! 👋 So, you’re either scouting for your next tech girl for your team (spoiler alert: it’s me 💁‍♀️) or just casually snooping around. Either way, welcome to my little corner of tech magic!
    <br> 
 Let me give you a sneak peek into my coding glow-up from 4 years ago. Spoiler: it’s been a wild ride full of commits, caffeine, and the occasional bug-induced meltdown.
    <br> 
