@@ -11,15 +11,15 @@ Software / frontend Developer  </p>
  If you are here, you are probably considering me for a Developer role or just casually browsing through. 
  Let me take you through a Glimpse of what my coding path looks like: Find my <a href="http://cleverttech.com">Portfolio here</a> with links to real projects with an amazing team from previous employer plus other projects.
  My 3 main Project repositories are :
-  <hr> 
+    <br> 
   <a href="http://cleverttech.com">Dragon slay game</a>
-   <hr> 
+  <br>
   <a href="https://github.com/Cleverttech/clever-move-project">Moving company app</a>
-   <hr> 
+   <br> 
   <a href="https://github.com/Cleverttech/topoliArtsClient">Topoli Arts App (client)</a>
-   <hr> 
+    <br>
    <a href="https://github.com/Cleverttech/topoliArtsServer">Topoli Arts App  (server)</a>
- <hr>
+
  
  ###### About me: 
 
