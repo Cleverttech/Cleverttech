@@ -12,7 +12,7 @@ Oh, hey there! 👋 So, you’re either scouting for your next tech girl for you
    <br> 
 Let me give you a sneak peek into my code from 4 years ago. Spoiler: it was a wild ride full of commits, caffeine, and the occasional bug-induced meltdown.
    <br> 
- Check out my <a href="https://my-portfolio-22y81ixnn-cleverttech.vercel.app">Portfolio here</a>.
+ Check out my <a href="https://cleverttech-final-fqvxmzq2c-cleverttechs-projects.vercel.app/">Portfolio here</a>.
 💻 And because I know you’re curious, here are my Top 3 Project Repositories:
 
 Stay tuned. The best is yet to come. 😉
