@@ -51,6 +51,8 @@ Stay tuned. The best is yet to come. 😉
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-pink?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-gray?style=flat-square&logo=mongo)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-green?style=flat-square&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
