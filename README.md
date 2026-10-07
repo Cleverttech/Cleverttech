@@ -25,9 +25,7 @@ Stay tuned. The best is yet to come. 😉
    <a href="https://github.com/Cleverttech/topoliArtsServer">Topoli Arts App  (server)</a>
 
  
- ###### About me: 
-
-📍 current location : Hennef, Germany . 
+ ###### About me:
 
  <hr> 
  
@@ -72,9 +70,6 @@ I love listening to 🎵 classical music while writing code and Jhene Aiko while
  ‣ Quest to learn more.
  <hr>
 
-###### For more Enquiries: 
-
-📩Send me an Email on: <a href="mailto: clevertedeku@gmail.com">clevertedeku@gmail.com</a>
 
 ###### 🤝Also find and connect with me here:
 
