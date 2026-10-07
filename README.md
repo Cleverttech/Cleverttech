@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Software / frontend Developer  </p> 
+Software Developer  </p> 
 
  <p align="center"> My name is Clever D. Derenbach <br><br>Welcome to my Github 😊!</p>
  <hr> 
