@@ -6,7 +6,6 @@
 <p align="center">
 Software Developer  </p> 
 
- <p align="center"> My name is Clever D. Derenbach <br><br>Welcome to my Github 😊!</p>
  <hr> 
 Oh, hey there! 👋 So, you’re either scouting for your next tech girl for your team (spoiler alert: it’s me 💁‍♀️) or just casually snooping around.
    <br> 
