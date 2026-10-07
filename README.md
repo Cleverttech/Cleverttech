@@ -10,7 +10,7 @@ Software / frontend Developer  </p>
  <hr> 
 Oh, hey there! 👋 So, you’re either scouting for your next tech girl for your team (spoiler alert: it’s me 💁‍♀️) or just casually snooping around.
    <br> 
-Let me give you a sneak peek into my code from 4 years ago. Spoiler: it was a wild ride full of commits, caffeine, and the occasional bug-induced meltdown.
+Let me give you a sneak peek into my code from 6 years ago. Spoiler: it was a wild ride full of commits, caffeine, and the occasional bug-induced meltdown.
    <br> 
  Check out my <a href="https://cleverttech-final-fqvxmzq2c-cleverttechs-projects.vercel.app/">Portfolio here</a>.
 💻 And because I know you’re curious, here are my Top 3 Project Repositories:
@@ -34,7 +34,7 @@ Stay tuned. The best is yet to come. 😉
  
 ###### 🎓 I’m currently : 
 
-‣   📝working as a software developer at a Software Company.<br>
+‣   📝working as a software developer & UX/UI Design expert at a Software Company.<br>
 ‣  delving deeper into DevOp tools like Docker.<br>
 ‣ Problem solving with optimized Data Structures and Algorithm.<br>
 ‣ AWS and open to other cloud programming tools.
